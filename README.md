@@ -13,3 +13,4 @@ Pasos:
 7. Agregue una vista por defecto en `(config/routes.rb)`.
 7. Inicie su servidor Rails con `rails s -p PORT_NUMBER`
 
+![Broadway web app](app/assets/images/broadway-app.jpeg)
